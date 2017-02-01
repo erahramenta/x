@@ -1,0 +1,6 @@
+#include<stdlib.h>
+#include<iosteam>
+#include<conio.h>
+using namespace std;
+int main()
+{
